@@ -1,6 +1,6 @@
 # java-courses-app2
 - Basic CRUD operations with sample course data
-- Does not connect to database
+- Connects to database
 
 ## Available APIs
 
